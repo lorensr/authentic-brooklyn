@@ -1,5 +1,6 @@
 backend:
-  name: authentic-brooklyn
+  name: github
+  repo: lorensr/authentic-brooklyn
 
 media_folder: static/assets
 public_folder: assets
