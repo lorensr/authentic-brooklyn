@@ -6,10 +6,7 @@ import SEO from '../components/seo'
 function ContactPage() {
   return (
     <Layout>
-      <SEO
-        title="Contact"
-        keywords={[`gatsby`, `tailwind`, `react`, `tailwindcss`]}
-      />
+      <SEO title="Contact" />
       <section className="text-center">
         <a className="font-mono text-2xl" href="mailto:hello@authentic.earth">
           hello@authentic.earth
