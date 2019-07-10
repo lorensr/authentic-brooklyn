@@ -1,9 +1,9 @@
-import { Link } from "gatsby";
-import PropTypes from "prop-types";
-import React, { useState } from "react";
+import { Link } from 'gatsby'
+import PropTypes from 'prop-types'
+import React, { useState } from 'react'
 
 function Header({ siteTitle }) {
-  const [isExpanded, toggleExpansion] = useState(false);
+  const [isExpanded, toggleExpansion] = useState(false)
 
   return (
     <nav className="bg-teal-700">
@@ -65,15 +65,15 @@ function Header({ siteTitle }) {
         </div>
       </div>
     </nav>
-  );
+  )
 }
 
 Header.propTypes = {
-  siteTitle: PropTypes.string
-};
+  siteTitle: PropTypes.string,
+}
 
 Header.defaultProps = {
-  siteTitle: ``
-};
+  siteTitle: ``,
+}
 
-export default Header;
+export default Header
