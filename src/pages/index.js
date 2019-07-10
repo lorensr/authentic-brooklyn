@@ -12,7 +12,7 @@ function IndexPage() {
       />
 
       <section>
-        <div className="text-center mx-auto md:w-1/3">
+        <div className="mx-auto max-w-112">
           <h1 className="text-center text-3xl font-bold my-8 p-3">
             Authentic Relating
           </h1>
@@ -36,7 +36,7 @@ function IndexPage() {
           </p>
         </div>
 
-        <div className="text-center mx-auto md:w-1/3">
+        <div className="mx-auto max-w-112">
           <h2 className="text-center text-3xl my-8 p-3">AR Games</h2>
 
           <p className="mb-8">
@@ -52,7 +52,7 @@ function IndexPage() {
           </p>
         </div>
 
-        <div className="text-center mx-auto md:w-1/3">
+        <div className="mx-auto max-w-112">
           <h2 className="text-center text-3xl my-8 p-3">Circling</h2>
 
           <p className="mb-8">
