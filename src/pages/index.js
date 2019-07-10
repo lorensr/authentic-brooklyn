@@ -41,7 +41,7 @@ function IndexPage() {
 
           <p className="mb-8">
             {`AR games are group activities (pairs, small groups, large group) 
-            for practicing noticing and sharing what's going on inside ourselves. `}
+            for practicing noticing and sharing what’s going on inside ourselves. `}
             <a
               className="text-blue-400 whitespace-no-wrap"
               href="https://gumroad.com/l/AR-Games"
@@ -56,12 +56,12 @@ function IndexPage() {
           <h2 className="text-center text-3xl my-8 p-3">Circling</h2>
 
           <p className="mb-8">
-            Circling is also know as interpersonal meditation. It is a type of
-            meditation in that it has a point of focus that we bring our
-            attention back to. It's relational in that the focus is not on our
-            independent selves, but on what it's like to be in connection with
-            others—how it is to be in the same room, to hear what they say, to
-            meet their gaze.
+            Circling is also know as <b>relational meditation</b>. It is a type
+            of <b>meditation</b> in that it has a point of focus that we bring
+            our attention back to. It’s <b>relational</b> in that the focus is
+            not on our independent selves, but on what it’s like to be in
+            connection with others—how it is to be in the same room, to hear
+            what they say, to meet their gaze.
           </p>
 
           <p className="mb-8">
