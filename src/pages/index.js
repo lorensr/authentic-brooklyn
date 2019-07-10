@@ -31,7 +31,7 @@ function IndexPage() {
           </p>
 
           <p>
-            There are a couple common ways of practicing authentic relating:
+            {`There are a couple common ways of practicing authentic relating: `}
             <span className="whitespace-no-wrap">AR games and circling.</span>
           </p>
         </div>
