@@ -28,7 +28,7 @@ function Layout({ children }) {
             <nav className="flex justify-center max-w-4xl mx-auto p-2 md:p-4 text-sm">
               <p className="text-white">
                 <a href="https://github.com/lorensr/authentic-brooklyn">
-                  {`Suggest edits to this site on `}
+                  {`Edit this site on `}
                   <span className="font-bold">GitHub</span>
                 </a>
               </p>

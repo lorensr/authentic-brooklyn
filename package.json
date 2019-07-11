@@ -15,7 +15,7 @@
     "fix:lint": "eslint --ext .jsx --ext .js . --fix"
   },
   "dependencies": {
-    "gatsby": "^2.13.9",
+    "gatsby": "^2.13.13",
     "gatsby-plugin-netlify-cms": "^4.1.1",
     "netlify-cms-app": "^2.9.5",
     "react": "^16.8.6",
