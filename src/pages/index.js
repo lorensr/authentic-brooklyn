@@ -37,10 +37,10 @@ function IndexPage() {
         </div>
 
         <div className="mx-auto max-w-112">
-          <h2 className="text-center text-3xl my-8 p-3">AR Games</h2>
+          <h2 className="text-center text-3xl my-8 p-3">AR games</h2>
 
           <p className="mb-8">
-            {`AR games are group activities (pairs, small groups, large group) 
+            {`AR games are group activities (pairs, small groups, or large group) 
             for practicing noticing and sharing what’s going on inside ourselves. `}
             <a
               className="text-blue-400 whitespace-no-wrap"
@@ -72,7 +72,32 @@ function IndexPage() {
             >
               five principles
             </a>
-            .
+            . There are a few types of circling:
+            <ul className="list-inside list-disc mt-1">
+              <li>Birthday: focus on one person</li>
+              <li>Organic: facilitator guides focus</li>
+              <li>
+                <a
+                  className="text-blue-400"
+                  href="https://circlingeurope.com/2017/02/what-is-surrendered-leadership-a-first-look/"
+                >
+                  Surrendered leadership
+                </a>
+                : everyone surrenders and leads
+              </li>
+              <li>Topical: focus on a topic</li>
+              <li>Self: by yourself</li>
+              <li>
+                <a
+                  className="text-blue-400"
+                  href="http://circlingguide.com/offers/"
+                >
+                  Guerilla
+                </a>
+                : outside of shared context
+              </li>
+              <li>Corporate: in a workshop/training for a company</li>
+            </ul>
           </p>
 
           <p>
