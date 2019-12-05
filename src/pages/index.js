@@ -86,6 +86,15 @@ function IndexPage() {
                 : everyone surrenders and leads
               </li>
               <li>Topical: focus on a topic</li>
+              <li>
+                <a
+                  className="text-blue-400"
+                  href="http://circlingguide.com/developmental-circling/"
+                >    
+                  Developmental
+                </a>
+                : topical circle on personal development
+              </li>    
               <li>Self: by yourself</li>
               <li>
                 <a
