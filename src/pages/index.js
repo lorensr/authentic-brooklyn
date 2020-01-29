@@ -27,7 +27,7 @@ function IndexPage() {
             >
               More info
             </a>
-            and
+            {` and `}
             <a
               className="text-blue-400 whitespace-no-wrap"
               href="https://docs.google.com/document/d/1ELhGwpar0_c-4zjIDbv9Qq4Sn2axQOxEbDhkKQwbJa8/edit"
