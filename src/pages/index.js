@@ -56,7 +56,7 @@ We can do AR games online via the [COnnect platform](https://www.authrev.org/con
             our attention back to. It’s <b>relational</b> in that the focus is
             not on our independent selves, but on what it’s like to be in
             connection with others—how it is to be in the same room, to hear
-            what they say, to meet their gaze.
+            what they say, to meet their gaze. And we share what we notice.
           </p>
 
           <section className="mb-6">
